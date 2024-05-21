@@ -1,0 +1,23 @@
+{
+  "name": "fmod-ts-starter",
+  "version": "0.1.0",
+  "description": "starter project for FMOD Studio typescript scripting",
+  "main": "",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "keywords": [
+    "fmod",
+    "typescript",
+    "scripting",
+    "tools"
+  ],
+  "author": "Michael Hartung",
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "^1.7.3",
+    "@types/node": "20.12.8",
+    "typescript": "5.4.5"
+  }
+}

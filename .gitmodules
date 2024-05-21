@@ -1,0 +1,3 @@
+[submodule "src/types/fmod"]
+	path = src/types/fmod
+	url = https://github.com/michaelhartung/fmod-types.git

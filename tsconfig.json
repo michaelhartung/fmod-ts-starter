@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "CommonJS",
+        "outDir": "dist",
+        "removeComments": false,
+        "noUncheckedIndexedAccess": true,
+        "sourceMap": false
+
+    },
+    "files": [
+        "src/example.ts",
+        "src/types/fmod/fmod.d.ts"
+    ]
+}
